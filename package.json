@@ -1,0 +1,16 @@
+{
+  "name": "S-Armada",
+  "version": "1.0.0",
+  "description": "S-PAIR",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "S-Armada",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "chalk": "latest"
+  }
+}
